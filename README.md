@@ -7,6 +7,7 @@
 **Android Developer | Kotlin Enthusiast | Problem Solver**
 
 📧 [Mabdelftah744@gmail.com](mailto:Mabdelftah744@gmail.com)
+[linkedin] (https://www.linkedin.com/in/mohamed-abd-elfttah-037894245)
 
 ---
 
