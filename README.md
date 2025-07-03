@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **MohamedAbdElfttah313/MohamedAbdElfttah313** is a ✨ _special_ ✨ repository becaus👋 Mohamed Abd Elfttah
 Android Developer | Kotlin Enthusiast | Problem Solver
 
@@ -36,24 +36,3 @@ A tour guide application designed to help tourists plan, navigate, and get the m
 
 Let me know if you'd like this in markdown file format or tailored to a specific project repo!
 
-
-
-
-
-
-
-
-
-e its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
