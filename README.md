@@ -32,8 +32,8 @@ I'm a passionate Android Developer focused on building high-quality, scalable, a
 
 ## 📱 Projects
 
-### 📌 [Routime](https://github.com/MohamedAbdElfttah313/Routime)  
-A productivity-focused app that helps users track and manage their daily activities. Built using Android SDK, Jetpack, Coroutines, and Flows to deliver a smooth and intuitive experience.
+### 📌 [Literally Me](https://github.com/MohamedAbdElfttah313/Literally-Me-Social-Media)  
+Literally Me is a modern social media application built around activities, not random posts. Whether you're watching a TV show, reading a book, playing a game, following an anime, or exploring any other activity 
 
 ### 📌 [iTourist](https://github.com/MohamedAbdElfttah313/iTourist)  
 A tour guide application designed to help tourists plan, navigate, and get the most out of their travel experiences. Features seamless integration with Retrofit and Firebase for real-time functionality.
